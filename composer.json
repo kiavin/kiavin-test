@@ -6,5 +6,9 @@
     "type": "project",
     "support": {
         "source": "https://github.com/kiavin"
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.4.0"
     }
 }
