@@ -1,5 +1,5 @@
 {
-    "name": "package/test",
+    "name": "kiarie/test",
     "description": "Test library for the Yii framework by kelvin", 
     "keywords": ["kiavin", "framework", "basic", "project template"],
     "homepage": "https://www.islandforebcom/",
