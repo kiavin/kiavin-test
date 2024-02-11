@@ -8,6 +8,7 @@
         "source": "https://github.com/kiavin"
     },
     "minimum-stability": "stable",
+    "prefer-stable": true,
     "require": {
         "php": ">=7.4.0"
     }
