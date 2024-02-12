@@ -9,6 +9,14 @@
             "email": "bscs157j2022@students.tu.ac.ke"
         }
     ],
-    "minimum-stability": "dev",
-    "require": {}
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4":{
+            "kiavin\\-Test\\": "src/"
+        }
+    },
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^9.5" 
+}
 }
