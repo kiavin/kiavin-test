@@ -1,20 +1,14 @@
 {
-    "name": "kiarie/test",
-    "description": "Test library for the Yii framework by kelvin", 
-    "keywords": ["kiavin", "framework", "basic", "project template"],
-    "homepage": "https://www.islandforexbcom/",
-    "type": "project",
-    "support": {
-        "source": "https://github.com/kiavin"
-    },
-    "minimum-stability": "stable",
-    "prefer-stable": true,
-    "require": {
-        "php": ">=7.4.0"
-    },
-    "autoload": {
-        "psr-4": {
-            "kiavin\\Testpackage\\": "src/"
+    "name": "kiarie/test2",
+    "description": "am testing creating libraries",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "kiavin",
+            "email": "bscs157j2022@students.tu.ac.ke"
         }
-    }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
 }
